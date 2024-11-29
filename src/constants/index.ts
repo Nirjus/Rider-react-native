@@ -2,12 +2,14 @@ import OnboardImage1 from "@/assets/images/Onboarding1.png";
 import OnboardImage2 from "@/assets/images/Onboarding2.png";
 import OnboardImage3 from "@/assets/images/Onboarding3.png";
 import getStartedImage from "@/assets/images/get-started.png";
+import noresultImage from "@/assets/images/noresult.png";
 
 export const images = {
   OnboardImage1,
   OnboardImage2,
   OnboardImage3,
   getStartedImage,
+  noresultImage,
 };
 
 export const onBoardingArray = [

@@ -1,3 +1,4 @@
+export const geoApiKey = process.env.EXPO_PUBLIC_GEOAPIFY_KEY;
 export const BaseURl = process.env.EXPO_PUBLIC_API_URL!;
 
 const BaseURlWithV1 = `${BaseURl}/api/v1`;
